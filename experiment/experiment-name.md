@@ -1,1 +1,1 @@
-## Experiment name
+## Thickness of Strata by Graphical Method
