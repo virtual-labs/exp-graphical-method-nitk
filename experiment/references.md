@@ -1,9 +1,9 @@
 <table style="text-align:justify;">
-  <tr style=”background-color: white”>
+  <tr style="background-color: white">    
     <th>References</th>
     <th>Contributors list</th>
   </tr>
-  <tr style=”background-color: white”>
+  <tr style="background-color: white">    
     <td>
     <ol>
     <li>Duncan, N., 1969. Engineering Geology And Rock Mechanics. Volumes. 1 AND 2.</li>
