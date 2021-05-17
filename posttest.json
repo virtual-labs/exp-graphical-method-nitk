@@ -1,0 +1,44 @@
+[{
+	"question": "Two dimensional profile of a geological structure is shown<br><img src=\"./images/thick4.png\" height='253' width='300' /><br>Determine the angle of dip",
+	"answers": {
+		"a": "67.033&deg; to south",
+		"b": "23.556&deg; to south",
+		"c": "Irrespective of profile it always remains 0&deg; to south",
+		"d": "Irrespective of profile it always remains 90&deg; to south"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "If the contour lines are at very large distance to each other, this indicates a ____slope",
+	"answers": {
+		"a": "Steep",
+		"b": "Gentle",
+		"c": "No significant",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The distance measured perpendicular to the upper and lower contact of a tabular unit",
+	"answers": {
+		"a": "Outcrop width",
+		"b": "True thickness",
+		"c": "Apparent thickness",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The distance on the map between the bounding contacts of a tabular unit measured along an azimuth perpendicular to strike",
+	"answers": {
+		"a": "Outcrop width",
+		"b": "True thickness",
+		"c": "Apparent thickness",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Geologic graphics help determination of the geology of an area comprising of the rock formations, their thickness and sequence above or below the ground surface. (Say True or False)",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}]
