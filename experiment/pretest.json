@@ -11,8 +11,8 @@
 {
 	"question": "Which of the following statement is/are true regarding the following contour map<br><img src=\"./images/thick1.png\" height='150' width='300'/>",
 	"answers": {
-		"a": "Each of the rock beds are inclined with horizontal at angle of 32.15&deg;",
-		"b": "Each of the rock beds are parallel to horizontal surface i.e Angle of Dip = 0&deg;",
+		"a": "Each of the rock beds are inclined with horizontal at angle of 32.15°",
+		"b": "Each of the rock beds are parallel to horizontal surface i.e Angle of Dip = 0°",
 		"c": "Thickness of Shale bed rock is less than 100 m at each and every point of the contour map",
 	  "d": "None of the above"
 	},
